@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\bin\Debug\netcoreapp3.1\NewLineExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewLineExample\NewLineExample\obj\Debug\netcoreapp3.1\NewLineExample.genruntimeconfig.cache
