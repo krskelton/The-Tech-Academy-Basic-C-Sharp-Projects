@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.genruntimeconfig.cache
