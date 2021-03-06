@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.genruntimeconfig.cache
