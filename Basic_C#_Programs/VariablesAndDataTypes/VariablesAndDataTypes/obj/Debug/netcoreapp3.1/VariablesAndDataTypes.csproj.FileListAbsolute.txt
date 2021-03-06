@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.genruntimeconfig.cache
