@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\bin\Debug\netcoreapp3.1\CalculateNumbers.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CalculateNumbers\CalculateNumbers\obj\Debug\netcoreapp3.1\CalculateNumbers.genruntimeconfig.cache

@@ -29,6 +29,12 @@ namespace MathChallenge
             int num8 = 2;
             int divNum = num7 / num8;
             Console.WriteLine(divNum);
+
+            //Add a string
+            string text1 = "Hello, ";
+            string text2 = "World!";
+            string combinedText = text1 + text2;
+            Console.WriteLine(combinedText);
         }
     }
 }

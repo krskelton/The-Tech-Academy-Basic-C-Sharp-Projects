@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache
