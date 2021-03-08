@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.genruntimeconfig.cache
