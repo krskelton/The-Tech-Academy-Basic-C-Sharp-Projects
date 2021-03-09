@@ -27,8 +27,8 @@ namespace ShippingBranching
                 Console.WriteLine("Package Length:");
                 double length = Convert.ToDouble(Console.ReadLine());
                 
-                //If the width, height or length are greater than 50, return the too big message
-                if (width > 50 || height > 50 || length > 50) {
+                //If the total of width, height and length are greater than 50, return the too big message
+                if ((width + height + length) > 50) {
                     Console.WriteLine("Package is too big to be shipped via Package Express.");
                 } 
                 //Else calculate the quote
