@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.genruntimeconfig.cache
