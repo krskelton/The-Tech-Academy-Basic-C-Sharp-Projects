@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\bin\Debug\netcoreapp3.1\ShippingBranching.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ShippingBranching\ShippingBranching\obj\Debug\netcoreapp3.1\ShippingBranching.genruntimeconfig.cache
