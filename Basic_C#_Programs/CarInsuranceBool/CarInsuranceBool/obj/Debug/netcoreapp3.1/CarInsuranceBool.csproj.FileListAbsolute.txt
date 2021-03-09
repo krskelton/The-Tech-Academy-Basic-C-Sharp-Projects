@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\bin\Debug\netcoreapp3.1\CarInsuranceBool.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CarInsuranceBool\CarInsuranceBool\obj\Debug\netcoreapp3.1\CarInsuranceBool.genruntimeconfig.cache
