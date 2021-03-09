@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\bin\Debug\netcoreapp3.1\NotOperator.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NotOperator\NotOperator\obj\Debug\netcoreapp3.1\NotOperator.genruntimeconfig.cache
