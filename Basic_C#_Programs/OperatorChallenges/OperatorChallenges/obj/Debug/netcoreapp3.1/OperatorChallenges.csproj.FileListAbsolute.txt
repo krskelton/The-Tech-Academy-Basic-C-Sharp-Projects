@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\bin\Debug\netcoreapp3.1\OperatorChallenges.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenges\OperatorChallenges\obj\Debug\netcoreapp3.1\OperatorChallenges.genruntimeconfig.cache

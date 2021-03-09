@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperatorChallenges/1.0.0": {
+        "runtime": {
+          "OperatorChallenges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorChallenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
