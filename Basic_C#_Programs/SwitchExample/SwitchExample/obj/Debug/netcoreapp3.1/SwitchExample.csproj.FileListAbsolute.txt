@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\bin\Debug\netcoreapp3.1\SwitchExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchExample\SwitchExample\obj\Debug\netcoreapp3.1\SwitchExample.genruntimeconfig.cache
