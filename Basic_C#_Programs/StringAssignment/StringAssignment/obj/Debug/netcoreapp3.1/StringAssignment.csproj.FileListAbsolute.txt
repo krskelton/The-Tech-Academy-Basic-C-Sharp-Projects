@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
