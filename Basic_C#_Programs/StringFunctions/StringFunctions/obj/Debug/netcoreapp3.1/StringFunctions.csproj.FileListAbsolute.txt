@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache
