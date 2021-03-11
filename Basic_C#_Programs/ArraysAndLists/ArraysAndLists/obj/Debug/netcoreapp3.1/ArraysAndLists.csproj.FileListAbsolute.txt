@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.genruntimeconfig.cache
