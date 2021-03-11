@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.genruntimeconfig.cache
