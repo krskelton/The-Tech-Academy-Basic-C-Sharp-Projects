@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.genruntimeconfig.cache
