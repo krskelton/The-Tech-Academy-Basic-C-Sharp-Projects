@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.genruntimeconfig.cache
