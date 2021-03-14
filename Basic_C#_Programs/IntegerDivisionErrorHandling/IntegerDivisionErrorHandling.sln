@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDivisionErrorHandling", "IntegerDivisionErrorHandling\IntegerDivisionErrorHandling.csproj", "{2A476DC2-1F31-4F91-9D63-2349268B9D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A476DC2-1F31-4F91-9D63-2349268B9D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A476DC2-1F31-4F91-9D63-2349268B9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A476DC2-1F31-4F91-9D63-2349268B9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A476DC2-1F31-4F91-9D63-2349268B9D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAFABA0-0896-4DA3-8F2E-AD90BA5D56BA}
+	EndGlobalSection
+EndGlobal
