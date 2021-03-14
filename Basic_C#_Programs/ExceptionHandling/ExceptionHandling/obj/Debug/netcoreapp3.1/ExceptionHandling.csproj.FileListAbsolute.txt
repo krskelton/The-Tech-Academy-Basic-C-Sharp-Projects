@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
