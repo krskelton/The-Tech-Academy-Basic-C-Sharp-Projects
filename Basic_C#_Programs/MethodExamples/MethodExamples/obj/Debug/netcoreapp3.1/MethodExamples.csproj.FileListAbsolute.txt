@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodExamples\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.genruntimeconfig.cache
