@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\bin\Debug\netcoreapp3.1\NamingParameters.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NamingParameters\NamingParameters\obj\Debug\netcoreapp3.1\NamingParameters.genruntimeconfig.cache
