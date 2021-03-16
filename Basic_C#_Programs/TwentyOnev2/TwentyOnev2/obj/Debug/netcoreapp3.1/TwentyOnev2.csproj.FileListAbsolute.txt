@@ -1,0 +1,13 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.csprojAssemblyReference.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\TwentyOnev2.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.genruntimeconfig.cache

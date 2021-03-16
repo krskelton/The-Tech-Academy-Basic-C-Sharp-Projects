@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace TwentyOnev2
 {
     class Program
     {
@@ -36,3 +36,4 @@ namespace TwentyOne
         }
     }
 }
+
