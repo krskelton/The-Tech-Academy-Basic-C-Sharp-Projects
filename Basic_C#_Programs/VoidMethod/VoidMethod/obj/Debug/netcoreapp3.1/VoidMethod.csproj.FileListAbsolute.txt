@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.genruntimeconfig.cache
