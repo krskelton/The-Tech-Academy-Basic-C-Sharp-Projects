@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractPerson\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.genruntimeconfig.cache
