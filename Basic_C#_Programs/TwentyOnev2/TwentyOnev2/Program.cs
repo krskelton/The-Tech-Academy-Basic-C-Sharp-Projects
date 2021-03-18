@@ -11,16 +11,19 @@ namespace TwentyOnev2
         static void Main(string[] args)
         {
             //below demonstrates polymorphism
-            //if you were creating a bunch of games you would want them all to be the same type so you use the parent class
-            //the ability of a class to morph into it's inheriting class
-            Game game = new TwentyOneGame();
+            //Game game = new TwentyOneGame();
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
+            //game.Play();
+            //Console.ReadLine();
             TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
-            game.Play();
             Console.ReadLine();
+
             Deck deck = new Deck();
-            deck.Shuffle();
+            deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
             {
