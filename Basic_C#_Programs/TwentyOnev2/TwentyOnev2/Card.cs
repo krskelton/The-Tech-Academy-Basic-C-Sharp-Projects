@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOnev2
 {
-    public class Card
+    public struct Card
     {
         public Suit Suit { get; set; }
         public Face Face { get; set; }
