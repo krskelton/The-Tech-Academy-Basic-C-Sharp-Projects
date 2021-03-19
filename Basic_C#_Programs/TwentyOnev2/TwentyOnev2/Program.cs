@@ -10,25 +10,6 @@ namespace TwentyOnev2
     {
         static void Main(string[] args)
         {
-            //below demonstrates polymorphism
-            //Game game = new TwentyOneGame();
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
-            //game.ListPlayers();
-            //game.Play();
-            //Console.ReadLine();
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
-
             Deck deck = new Deck();
             deck.Shuffle(3);
 
@@ -39,7 +20,6 @@ namespace TwentyOnev2
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-        
     }
 }
 
