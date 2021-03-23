@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using System.IO;
 
 namespace TwentyOnev2
 {
@@ -18,7 +19,17 @@ namespace TwentyOnev2
         {
             //First is a method available to a list that gets the first item in the list
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+
+            //log each card to a file
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+
+            Console.WriteLine(card);
+            //you are dealing with unmanaged code so you need to make sure things are disposed of.
+            using (StreamWriter file = new StreamWriter(@"C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\logs\log.txt", true))
+            {
+                file.WriteLine(card);
+            }
+
             //remove it from the deck
             Deck.Cards.RemoveAt(0);
         }
