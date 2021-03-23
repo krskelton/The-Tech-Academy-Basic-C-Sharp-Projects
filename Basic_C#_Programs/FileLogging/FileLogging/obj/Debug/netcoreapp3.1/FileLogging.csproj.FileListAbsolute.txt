@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\bin\Debug\netcoreapp3.1\FileLogging.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\FileLogging\FileLogging\obj\Debug\netcoreapp3.1\FileLogging.genruntimeconfig.cache
