@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache
