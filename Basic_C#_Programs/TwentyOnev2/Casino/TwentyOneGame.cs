@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace TwentyOnev2
+namespace Casino.TwentyOne
 {
-    class TwentyOneGame : Game, IWalkAway
+    public class TwentyOneGame : Game, IWalkAway
     {
         public TwentyOneDealer Dealer { get; set; }
         //the play method plays one hand

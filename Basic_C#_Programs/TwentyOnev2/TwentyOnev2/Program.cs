@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Casino;
+using Casino.TwentyOne;
 using System.IO;
 
 namespace TwentyOnev2
@@ -11,10 +9,6 @@ namespace TwentyOnev2
     {
         static void Main(string[] args)
         {
-            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
-            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
-
-            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
             //Get user name
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name");
             string playerName = Console.ReadLine();
@@ -29,7 +23,14 @@ namespace TwentyOnev2
             {
                 //if they want to play, create a new player object and intialize them
                 Player player = new Player(playerName, bank);
-                
+                //create a guid
+                player.Id = Guid.NewGuid();
+
+                using (StreamWriter file = new StreamWriter(@"C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
+
                 //we use Game here so it exposes those overloaded operators
                 Game game = new TwentyOneGame();
                 game += player;

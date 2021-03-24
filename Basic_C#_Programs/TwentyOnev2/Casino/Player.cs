@@ -2,10 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TwentyOnev2
+namespace Casino
 {
     public class Player
     {
+        //define a constructor with only one parameter
+        //this is called constructor chaining
+        public Player(string name) : this(name, 100)
+        { 
+            //if they don't provide a begining balance provide 100. You don't need to put anything in here.
+        }
         //Constructor
         public Player(string name, int beginningBalance)
         {
@@ -19,6 +25,7 @@ namespace TwentyOnev2
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {

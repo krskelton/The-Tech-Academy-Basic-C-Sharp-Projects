@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5E1W9MA53oqROd37gCLOGq/hBO7W14yJPnFpUi7lTCTh+TmuiHVbudvxvqhsQo5os4rx0B5jZmhn8pFNykap1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kskel\\html-css-projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\TwentyOnev2\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kskel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kskel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

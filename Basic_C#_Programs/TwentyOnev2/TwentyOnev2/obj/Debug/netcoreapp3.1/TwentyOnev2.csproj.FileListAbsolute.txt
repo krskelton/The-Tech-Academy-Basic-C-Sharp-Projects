@@ -11,3 +11,6 @@ C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.dll
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.pdb
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.genruntimeconfig.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\TwentyOnev2\obj\Debug\netcoreapp3.1\TwentyOnev2.csproj.CopyComplete
