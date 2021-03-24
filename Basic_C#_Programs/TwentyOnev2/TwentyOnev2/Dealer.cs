@@ -27,6 +27,7 @@ namespace TwentyOnev2
             //you are dealing with unmanaged code so you need to make sure things are disposed of.
             using (StreamWriter file = new StreamWriter(@"C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOnev2\logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
 
