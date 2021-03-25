@@ -1,0 +1,12 @@
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.exe
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.deps.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.runtimeconfig.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.runtimeconfig.dev.json
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.genruntimeconfig.cache
