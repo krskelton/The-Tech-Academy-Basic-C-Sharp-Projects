@@ -1,0 +1,29 @@
+﻿@using NewsletterAppMVC.ViewModels
+@model List<SignupVM>
+
+<div class="row row-no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign-Ups</h5>
+        </div>
+        <div class="card-body">
+            @*loop through the list and create a row for each*@
+            @foreach (var signup in Model)
+            { 
+                <div class="row">
+                    <div class="col">
+                        @signup.FirstName
+                    </div>
+                    <div class="col">
+                        @signup.LastName
+                    </div>
+                    <div class="col">
+                        @signup.EmailAddress
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+   
+</div>
