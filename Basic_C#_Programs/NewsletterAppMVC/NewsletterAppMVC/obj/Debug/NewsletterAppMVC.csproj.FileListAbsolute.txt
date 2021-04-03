@@ -77,3 +77,7 @@ C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\kskel\html-css-projects\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
