@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUhjJPhOqY95VEy9PQlo+00wT5I/htz6fBzcr6j+PlS6Am5yjINziDjTdmFknR8zFO4504nDscp/+if+rIwk4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kskel\\html-css-projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kskel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.2\\microsoft.netcore.app.runtime.win-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\kskel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\kskel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.2\\microsoft.aspnetcore.app.runtime.win-x64.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

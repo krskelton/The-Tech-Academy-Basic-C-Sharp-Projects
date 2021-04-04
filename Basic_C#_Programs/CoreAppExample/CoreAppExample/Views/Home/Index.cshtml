@@ -1,0 +1,20 @@
+﻿@page
+@{ 
+    @functions{
+        public string Message { get; set; }
+
+        public void OnGet()
+        {
+            Message = "Get used";
+        }
+        public void OnPost()
+        {
+            Message = "Post used";
+        }
+
+    }
+}
+
+<h3>@Message</h3>
+<form method="post"><button class="btn btn-default">Click to Post</button></form>
+<p><a href="/index" class="btn btn-default">Click to Get</a></p>
