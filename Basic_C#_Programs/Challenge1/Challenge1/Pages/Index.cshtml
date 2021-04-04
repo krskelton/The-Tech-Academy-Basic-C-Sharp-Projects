@@ -1,0 +1,20 @@
+﻿@page
+@{ 
+    @functions{
+        public string Message { get; set; }
+
+        public void OnGet()
+        {
+            Message = "Welcome! Press the button to get the current time.";
+        }
+        public void OnPost()
+        {
+            Message = "The server time is " + DateTime.Now;
+        }
+    }
+}
+@{ string title = "Kristin's Time Machine";}
+<h2>@title</h2>
+
+<h4>@Message</h4>
+<form method="post"><button class="btn btn-dark">Click to get time</button></form>
